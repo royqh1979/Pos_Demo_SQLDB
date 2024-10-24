@@ -1,0 +1,9 @@
+/bin/
+.idea
+.settings
+*.iml
+.classpath
+.project
+
+# 项目排除路径
+/out/
